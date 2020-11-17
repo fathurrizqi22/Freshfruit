@@ -12,6 +12,54 @@ aplikasi ini mensimulasi kan terhadap pegambilan buah dari keranjang, list buah 
 
 2. Buatlah class diagramnya
 
+
+
+
+
+  ![fruitsss](https://user-images.githubusercontent.com/61857691/99405354-40a1c280-291f-11eb-9a8c-f51386c14546.jpeg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 3. Berilah pembahasan alur atau logika pemrogramannya.
    
     Saat button add diklik fungsi `public void addFruit` dipanggil dan mengecek apakah bucket kosong atau penuh. Jika penuh maka fungsi `bucketIsOverload` akan dipanggli
